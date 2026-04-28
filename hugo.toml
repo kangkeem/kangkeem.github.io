@@ -1,4 +1,4 @@
 baseURL = 'https://kangkeem.github.io/'
 languageCode = 'en-us'
 title = '집 home hogar うち'
-theme = 'vintage-web-hugo-theme'
+theme = "hugo-theme-fluency"
