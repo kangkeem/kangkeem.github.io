@@ -1,4 +1,5 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://kangkeem.github.io/'
+
 locale = 'en-us'
 title = 'My New Hugo Project'
 theme = "vintage-web"
